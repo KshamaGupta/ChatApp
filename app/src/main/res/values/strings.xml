@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="title1">PhotoGraphy</string>
+    <string name="title2">Natural</string>
+    <string name="title3">Forest</string>
+    <string name="title4">Sea View</string>
+    <string name="title5">Cloud View</string>
+    <string name="rating1">123</string>
+    <string name="rating0">678</string>
+    <string name="rating2">543</string>
+    <string name="rating3">986</string>
+    <string name="rating4">765</string>
+    <string name="rating5">431</string>
 </resources>
